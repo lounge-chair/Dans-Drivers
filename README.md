@@ -2,7 +2,7 @@
 Hello! You've reached my personal collection of drivers I've written for various components and microcontrollers. 
 Below you will find descriptions of the drivers and links to the components.
 
-*Note: Many of these drivers also initialize a designated serial communication peripheral. These peripherals were chosen based on the schematics of the daughterboards utilized in my projects, as well as peripheral availability. While I'm certain you can get something out of this code even if you choose to use a different peripheral (if only as a "jumping-off point" for your own approach), you may need to edit the code (mainly the inits) to make it work for your microcontroller.*
+*Note: Many of these drivers also initialize a designated serial communication peripheral. These peripherals were chosen based on the schematics of the daughterboards utilized in my projects, as well as peripheral availability. While I'm certain you can get something out of this code even if you choose to use a different peripheral (if perhaps only as a "jumping-off point" for your own approach), you may need to edit the code (mainly the inits) to make it work for your microcontroller.*
 
 ## MSP432 Drivers
 These drivers were written with TI's MSP432P401R microcontroller in mind, but they should work with any MSP432-family microcontroller.
