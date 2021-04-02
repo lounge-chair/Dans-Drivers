@@ -18,7 +18,7 @@ Includes code to initialize/use the EUSCI_B2 peripheral in I2C mode.
 
 
 ## F2837xD Drivers
-These drivers were written with the TI TMS320F28379D DSP in mind, but they should work with any F2837xD-family DSP.
+These drivers were written with TI's TMS320F28379D DSP in mind, but they should work with any F2837xD-family DSP.
 ### 2 x IS62WVS2568GBLL-45NLI-TR - 2 x (256k x 8) SRAMs (SPI)
 Driver for a dual [IS62WVS2568GBLL-45NLI-TR](https://www.mouser.com/ProductDetail/ISSI/IS62WVS2568GBLL-45NLI-TR?qs=F5EMLAvA7IDi1b3lWvG69A%3D%3D) board. Combines two 256k x 8 SRAMs to "create" a 256k x 16 SRAM. 
 
